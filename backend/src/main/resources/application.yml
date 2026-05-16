@@ -1,0 +1,11 @@
+server:
+  port: 8005
+
+spring:
+  application:
+    name: fulfillment-service
+
+logging:
+  level:
+    root: INFO
+    com.order.fulfillment: DEBUG
